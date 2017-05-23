@@ -12,6 +12,7 @@
 		DE9C18A81ECACDB400FF56F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE9C18A61ECACDB400FF56F0 /* Main.storyboard */; };
 		DE9C18AA1ECACDB400FF56F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE9C18A91ECACDB400FF56F0 /* Assets.xcassets */; };
 		DE9C18AD1ECACDB400FF56F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE9C18AB1ECACDB400FF56F0 /* LaunchScreen.storyboard */; };
+		DE9C18B51ECADA1300FF56F0 /* Geeky Wallpapers  thats what i do when i Get Bored.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE9C18B41ECADA1300FF56F0 /* Geeky Wallpapers  thats what i do when i Get Bored.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DE9C18A91ECACDB400FF56F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE9C18AC1ECACDB400FF56F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE9C18AE1ECACDB400FF56F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE9C18B41ECADA1300FF56F0 /* Geeky Wallpapers  thats what i do when i Get Bored.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Geeky Wallpapers  thats what i do when i Get Bored.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				DE9C18A21ECACDB400FF56F0 /* AppDelegate.swift */,
 				DE9C18A41ECACDB400FF56F0 /* ViewController.swift */,
+				DE9C18B41ECADA1300FF56F0 /* Geeky Wallpapers  thats what i do when i Get Bored.jpg */,
 				DE9C18A61ECACDB400FF56F0 /* Main.storyboard */,
 				DE9C18A91ECACDB400FF56F0 /* Assets.xcassets */,
 				DE9C18AB1ECACDB400FF56F0 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE9C18B51ECADA1300FF56F0 /* Geeky Wallpapers  thats what i do when i Get Bored.jpg in Resources */,
 				DE9C18AD1ECACDB400FF56F0 /* LaunchScreen.storyboard in Resources */,
 				DE9C18AA1ECACDB400FF56F0 /* Assets.xcassets in Resources */,
 				DE9C18A81ECACDB400FF56F0 /* Main.storyboard in Resources */,
